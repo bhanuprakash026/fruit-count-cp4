@@ -1,0 +1,57 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffd569;
+  height: 100vh;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.fruits-bg-container {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.fruit-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.img-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image {
+  height: 300px;
+  width: 300px;
+}
+.btn {
+  padding: 10px 15px;
+  color: white;
+  font-family: 'Roboto';
+  border-radius: 5px;
+  cursor: pointer;
+  border-width: 0;
+  outline: none;
+  background-color: #007bff;
+  margin: 10px 0;
+}
+.main-header {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 32px;
+}
+.counter {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 32px;
+  color: #ffd569;
+}
